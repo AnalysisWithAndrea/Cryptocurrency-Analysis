@@ -11,6 +11,12 @@ Created comprehensive graphs using matplotlib and seaborn libraries. I plotted t
 * Ethereum = low risk medium return
 * Cardano = medium risk medium return
 * Doge = high risk high return
+* Based on the moving averages, all four coins seem to have had an upward trend in 2021 with a dip around August, however doge is the only coin that did not recover. At the beginning of 2022 all coins experienced a downward trend probably due to the incoming recession 
+* All coins had the highest daily return in January 2021
+* Positive daily returns are slightly more frequent than negative returns for all four coins
+* For daily returns Ethereum and Bitcoin have the highest correlation whereas for closing values Ethereum and Cardano are the most correlated.
+* With a 95% confidence, the investment’s worst daily loss of Doge, Bitcoin, Ethereum, and Cardano will not exceed 8.28%, 5.73%, 6.89%, and 7.96% respectively.
+
 
 
 
